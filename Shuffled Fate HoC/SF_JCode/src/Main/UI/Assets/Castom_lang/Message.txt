@@ -1,0 +1,5 @@
+[Mes_settings-QUIT]
+Выйти?
+
+[Mes_NotFoundButton]
+Не существует кнопки по ключу

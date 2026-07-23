@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SF_JCode" options="--add-modules jdk.incubator.foreign" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,154 @@
+[VoidCard]
+⌈[m xxxxxx ⌉
+          [m
+|        |
+          [m
+|        |
+          [m
+⌊_ _  _ _⌋
+
+[Cd_UsedCard]
+⌈[m  used  ⌉
+          [m
+|  #  #  |
+          [m
+|  #  #  |
+          [m
+⌊[4m  #  #  [m⌋
+
+[Cd_Attack]
+⌈[0;31m Attack [m⌉
+          [m
+| Enemy: |
+  -10 HP  [m
+|        |
+          [m
+⌊[4m  MN: 6 [m⌋
+
+[Cd_Bomb]
+⌈[38;2;110;0;0m  Bomb  [m⌉
+          [m
+| Enemy: |
+  -15 HP  [m
+| after  |
+  3 moves [m
+⌊[4m  MN: 6 [m⌋
+
+[Cd_Explosion]
+⌈[38;2;175;207;48m Explo- [m⌉
+ [38;2;175;207;48m -tion  [m
+| Damade |
+ 15 HP to [m
+|everyone|
+          [m
+⌊[4m  MN: 8 [m⌋
+
+[Cd_Heal]
+⌈[0;32m  Heal  [m⌉
+          [m
+| You:   |
+  +10 HP  [m
+|        |
+          [m
+⌊[4m  MN: 6 [m⌋
+
+[Cd_Toxin]
+⌈[38;2;0;255;0m Toxin  [m⌉
+          [m
+| Enemy: |
+   -2 HP  [m
+| in move|
+          [m
+⌊[4m  MN: 4 [m⌋
+
+[Cd_Cruelty]
+⌈[38;2;150;0;60mCruelty [m⌉
+          [m
+|Atk +20%|
+  to the  [m
+|  owner |
+          [m
+⌊[4;53m  MN: 0 [m⌋
+
+[Cd_Protection]
+⌈[38;2;100;100;100mProtec- [m⌉
+ [38;2;100;100;100m -tion  [m
+|Def +30%|
+  to the  [m
+|  owner |
+          [m
+⌊[4;53m  MN: 0 [m⌋
+
+[Cd_Conduction]
+⌈[38;2;100;100;255mConduc- [m⌉
+ [38;2;100;100;255m -tion  [m
+|Con +50%|
+  to the  [m
+|  owner |
+          [m
+⌊[4;53m  MN: 0 [m⌋
+
+[Cd_Mimic]
+⌈[38;2;100;100;100m Mimic  [m⌉
+          [m
+| Copies |
+   the    [m
+|behavios|
+          [m
+⌊[4m  MN: 9 [m⌋
+
+[Cd_Rift]
+⌈[38;2;95;0;160m  Rift  [m⌉
+          [m
+|Replaces|
+ all your [m
+| cards  |
+          [m
+⌊[4m  MN: 7 [m⌋
+
+[Cd_Disarm]
+⌈[38;2;35;57;117m Disarm [m⌉
+          [m
+| Erases |
+  enemys  [m
+| cards  |
+          [m
+⌊[4m  MN: 15[m⌋
+
+[Cd_Parasite]
+⌈[38;2;105;85;0mParasite[m⌉
+          [m
+| Owner  |
+ infected [m
+|parasite|
+          [m
+⌊[4m  MN: 15[m⌋
+
+[Cd_Exchange]
+⌈[38;2;100;255;255mExchange[m⌉
+          [m
+|  2 HP  |
+    ↑↓    [m
+|  3 MN  |
+          [m
+⌊[4m  MN: --[m⌋
+
+[Cd_Mirror (НЕ РЕАЛИЗОВАНА)]
+⌈[38;2;m Mirror [m⌉
+          [m
+|        |
+          [m
+|        |
+          [m
+⌊[4m  MN: 17[m⌋
+
+[Cd_Test-col]
+[48;2;25;0;0m⌈[38;2;255;0;0m Toxin  [37m⌉[m
+[48;2;25;0;0m          [m
+[48;2;25;0;0m| Enemi: |[m
+[48;2;25;0;0m -2 HP    [m
+[48;2;25;0;0m| in move|[m
+[48;2;25;0;0m          [m
+[48;2;25;0;0m⌊[4m   MN: 4[24;37m⌋[m
+
+[]

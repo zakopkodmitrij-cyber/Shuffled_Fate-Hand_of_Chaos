@@ -1,0 +1,55 @@
+[Int_titleSettings-Slant]
+   _____      __  __  _
+  / ___/___  / /_/ /_(_)___  ____ ______
+  \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+ ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+/____/\___/\__/\__/_/_/ /_/\__, /____/
+                          /____/
+
+[Itn_Mode.PvP-miniwi]
+▄▖  ▄▖
+▙▌▌▌▙▌
+▌ ▚▘▌
+
+[Itn_Mode.PvE-miniwi]
+▄▖  ▄▖
+▙▌▌▌▙▖
+▌ ▚▘▙▖
+
+[Itn_Mode.EvE-miniwi]
+▄▖  ▄▖
+▙▖▌▌▙▖
+▙▖▚▘▙▖
+
+[Itn_Lang.Castom-miniwi]
+▄▖    ▗
+▌ ▀▌▛▘▜▘▛▌▛▛▌
+▙▖█▌▄▌▐▖▙▌▌▌▌
+
+[Itn_Lang.Eng-miniwi]
+▄▖
+▙▖▛▌▛▌
+▙▖▌▌▙▌
+    ▄▌
+[Itn_Lang.Rus-miniwi]
+▄▖
+▙▘▌▌▛▘
+▌▌▙▌▄▌
+
+[Int_microPointer]
+▚▘
+
+[Itn_Apply.ChekMark-miniwi]
+   ▗
+▝▖▗▘
+ ▚▘
+
+[Int_Farewel]
+The game is over.
+Have a nice day)
+
+[]
+▄▖▜           ▄▖    ▜
+▙▌▐ ▀▌▌▌█▌▛▘  ▚ ▛▌▌▌▐
+▌ ▐▖█▌▙▌▙▖▌   ▄▌▙▌▙▌▐▖
+      ▄▌
